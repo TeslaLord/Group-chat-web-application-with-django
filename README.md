@@ -35,5 +35,5 @@ This is the group page where all the posts by various users are shown. You can p
 
 ## Profile
 
-Register as a new user or login as an existing user, which then opens the home page for list of available groups.
+View profile of other people in the group
 <img src="https://github.com/TeslaLord/TeslaLord/blob/main/groupprofile.PNG"> </img>
